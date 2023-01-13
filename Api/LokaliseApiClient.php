@@ -23,7 +23,7 @@ class LokaliseApiClient
 {
     const VERSION = '2.1.0';
 
-    const ENDPOINT = 'https://api.lokalise.co/api2/';
+    const ENDPOINT = 'https://api.lokalise.com/api2/';
 
     /** @var Comments */
     public $comments;
